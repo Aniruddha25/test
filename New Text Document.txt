@@ -1,0 +1,323 @@
+{
+  "Album": [
+    {
+      "AlbumName": "Wake Up Sid",
+      "AlbumSongs": 2,
+      "img": "../images/wakeup.jfif",
+      "lang": "hindi",
+      "songs": [
+        {
+          "SongName": "Iktara",
+          "Date": "4/4/21",
+          "ArtistName": "Amit Trivedi",
+          "path": "../songs_p/Hindi/wakeupsid/Iktara.mp3",
+          "img": "../images/amit_trivedi.jpg"
+        },
+        {
+          "SongName": "Life Is Crazy",
+          "Date": "4/3/21",
+          "ArtistName": "Shankar Mahadevan",
+          "path": "../songs_p/Hindi/wakeupsid/Life_Is_Crazy.mp3",
+          "img": "../images/shankar.jpg"
+        }
+      ]
+    },
+    {
+      "AlbumName": "Zindagi Na Milengi Doobara",
+      "AlbumSongs": 2,
+      "img": "../images/znmd.jfif",
+      "lang": "hindi",
+      "songs": [
+        {
+          "SongName": "Khaabon ke parinday",
+          "Date": "4/3/21",
+          "ArtistName": "Alyssa Mendonsa",
+          "path": "../songs_p/Hindi/znmd/Khaabon_ke_parinday.mp3",
+          "img": "../images/alyssa.jpg"
+        },
+        {
+          "SongName": "Senorita",
+          "Date": "4/4/21",
+          "ArtistName": "Hritik",
+          "path": "../songs_p/Hindi/znmd/Senorita.mp3",
+          "img": "../images/hritik.jfif"
+        }
+      ]
+    },
+    {
+      "AlbumName": "Yeh Jawanee hai dewanee",
+      "AlbumSongs": 3,
+      "img": "../images/yjhd.jfif",
+      "lang": "hindi",
+      "songs": [
+        {
+          "SongName": "Dilliwaali Girlfriend",
+          "Date": "4/4/21",
+          "ArtistName": "Vishal Dadlani",
+          "path": "../songs_p/Hindi/yjhd/Dilliwaali_Girlfriend.mp3",
+          "img": "../images/vishal.jpg"
+        },
+        {
+          "SongName": "Ghagra",
+          "Date": "4/3/21",
+          "ArtistName": "Rekha Bharatwaj",
+          "path": "../songs_p/Hindi/yjhd/ghagra.mp3",
+          "img": "../images/Rekha.jpg"
+        },
+        {
+          "SongName": "Ilahi",
+          "Date": "4/3/21",
+          "ArtistName": "Mohit Chauhan",
+          "path": "../songs_p/Hindi/yjhd/Ilahi.mp3",
+          "img": "../images/Mohit.jpg"
+        }
+      ]
+    },
+    {
+      "AlbumName": "Cadium",
+      "AlbumSongs": 2,
+      "img": "../images/melody.jfif",
+      "lang": "english",
+      "songs": [
+        {
+          "SongName": "Cadmium Melody",
+          "Date": "4/3/21",
+          "ArtistName": "jon becker",
+          "path": "../songs_p/English/Cadmium_Melody.mp3",
+          "img": "../images/jon_Becker.jpg"
+        },
+        {
+          "SongName": "Wish I Was Your Lover",
+          "Date": "4/3/21",
+          "ArtistName": "Enrique",
+          "path": "../songs_p/English/Wish_I_Was_Your_Lover.mp3",
+          "img": "../images/Enrique.jpg"
+        }
+      ]
+    },
+    {
+      "AlbumName": "Who Says",
+      "AlbumSongs": 2,
+      "img": "../images/Who_says.jpg",
+      "lang": "english",
+      "songs": [
+        {
+          "SongName": "Love Me Like You Do",
+          "Date": "4/3/21",
+          "ArtistName": "Ellie Goulding",
+          "path": "../songs_p/English/Love_Me_Like_You_Do.mp3",
+          "img": "../images/ellie_love_me1.jpg"
+        },
+        {
+          "SongName": "Who says Who says",
+          "Date": "4/3/21",
+          "ArtistName": "Selena Gomez",
+          "path": "../songs_p/English/Who_says.mp3",
+          "img": "../images/Selena.jpg"
+        }
+      ]
+    },
+    {
+      "AlbumName": "Mumbai Pune Mumbai",
+      "AlbumSongs": 2,
+      "img": "../images/mumbai_pune.jfif",
+      "lang": "marathi",
+      "songs": [
+        {
+          "SongName": "Kaa Kalena",
+          "Date": "4/3/21",
+          "ArtistName": "Bela Shende",
+          "path": "../songs_p/Marathi/Ka_Kalena.mp3",
+          "img": "../images/Belaa.jpg"
+        },
+        {
+          "SongName": "Kadhi tu",
+          "Date": "4/3/21",
+          "ArtistName": "Hrishikesh Ranade",
+          "path": "../songs_p/Marathi/Kadhi_Tu.mp3",
+          "img": "../images/Hrishikesh.jpg"
+        }
+      ]
+    },
+    {
+      "AlbumName": "Ayushyawar Bolu Kahi",
+      "AlbumSongs": 2,
+      "img": "../images/Aayusha_war_bolu_kahi.jfif",
+      "lang": "marathi",
+      "songs": [
+        {
+          "SongName": "Jara Chukiiche",
+          "Date": "4/3/21",
+          "ArtistName": "Sandeep khare",
+          "path": "../songs_p/Marathi/Jara_Chukiiche.mp3",
+          "img": "../images/sandeep.jpg"
+        },
+        {
+          "SongName": "Mee Morcha Nelaa",
+          "Date": "4/3/21",
+          "ArtistName": "Salil Kulkarni",
+          "path": "../songs_p/Marathi/Mee_Morchaa_Nelaa.mp3",
+          "img": "../images/salil_kulkarrni.jpg"
+        }
+      ]
+    },
+    {
+      "AlbumName": "Kesari",
+      "AlbumSongs": 1,
+      "img": "../images/kesari.jpg",
+      "lang": "punjabi",
+      "songs": [
+        {
+          "SongName": "Teri Mitti",
+          "Date": "4/3/21",
+          "ArtistName": "ARKO",
+          "path": "../songs_p/Punjabi/Teri_Mitti.mp3",
+          "img": "../images/ARKO.jfif"
+        }
+      ]
+    },
+    {
+      "AlbumName": "Qismat",
+      "AlbumSongs": 1,
+      "img": "../images/Qismat.jpg",
+      "lang": "punjabi",
+      "songs": [
+        {
+          "SongName": "Qismat",
+          "Date": "4/3/21",
+          "ArtistName": "Ammy Virk",
+          "path": "../songs_p/Punjabi/Qismat.mp3",
+          "img": "../images/Ammy_Virk.jpg"
+        }
+      ]
+    },
+    {
+      "AlbumName": "Behen Hogi Teri",
+      "AlbumSongs": 2,
+      "img": "../images/Behen_Hogi_Teri.jpg",
+      "lang": "punjabi",
+      "songs": [
+        {
+          "SongName": "Tenu Na Bol Pawaan",
+          "Date": "4/3/21",
+          "ArtistName": "Jyotica Tangri",
+          "path": "../songs_p/Punjabi/Tenu_Na_Bol_Pawaan1.mp3",
+          "img": "../images/jyotic_Tangri.jpg"
+        },
+        {
+          "SongName": "Akhar",
+          "Date": "4/3/21",
+          "ArtistName": "Nimrat Khaira",
+          "path": "../songs_p/Punjabi/Akhar.mp3",
+          "img": "../images/akhar1.jpg"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "yogesh",
+      "email": "yogeshch@cybage.com",
+      "phone": 8177949826,
+      "password": "xyz@abc",
+      "cpassword": "xyz@abc"
+    },
+    {
+      "id": 2,
+      "username": "Shubham",
+      "email": "shubhambo@cybage.com",
+      "phone": 8177949826,
+      "password": "xyz@abc",
+      "cpassword": "xyz@abc"
+    },
+    {
+      "id": 3,
+      "username": "ketki",
+      "email": "ketkig@cybage.com",
+      "phone": 8177949826,
+      "password": "xyz@abc",
+      "cpassword": "xyz@abc"
+    },
+    {
+      "id": 4,
+      "username": "pranita",
+      "email": "pranitabh@cybage.com",
+      "phone": 8177949826,
+      "password": "xyz@abc",
+      "cpassword": "xyz@abc"
+    },
+    {
+      "id": 5,
+      "username": "nehal",
+      "email": "nehalk@cybage.com",
+      "phone": "8177949826",
+      "password": "123456789",
+      "cpassword": "123456789"
+    },
+    {
+      "id": "8",
+      "username": "qwerty",
+      "email": "qwerty@gmail.com",
+      "phone": "8177949826",
+      "password": "123456789",
+      "cpassword": "123456789"
+    },
+    {
+      "id": "9",
+      "username": "zyx",
+      "email": "tejas@shinde.com",
+      "phone": "1234567890",
+      "password": "123456789",
+      "cpassword": "123456789"
+    },
+    {
+      "id": "10",
+      "username": "yogesh1603",
+      "email": "yogeshch@cybage.com",
+      "phone": "1234567890",
+      "password": "123456789",
+      "cpassword": "123456789"
+    },
+    {
+      "id": "11",
+      "username": "ketkimgovilkar",
+      "email": "ketkigovilkar34@gmail.com",
+      "phone": "07588556239",
+      "password": "ketkimgovilkar",
+      "cpassword": "ketkimgovilkar"
+    },
+    {
+      "id": "12",
+      "username": "nisha",
+      "email": "nisha@sharma.com",
+      "phone": "8177949826",
+      "password": "123456789",
+      "cpassword": "123456789"
+    },
+    {
+      "id": "18",
+      "username": "Yogeshqwe",
+      "email": "yogeshch@cybage.com",
+      "phone": "1234567890",
+      "password": "123456789",
+      "cpassword": "123456789"
+    },
+    {
+      "id": "13",
+      "username": "Aniruddha23",
+      "email": "aniruddhakulkarni191@gmail.com",
+      "phone": "9075840134",
+      "password": "amk@22598",
+      "cpassword": "amk@22598"
+    },
+    {
+      "id": "14",
+      "username": "Aniruddha275",
+      "email": "aniruddhakulkarni191@gmail.com",
+      "phone": "9075840134",
+      "password": "Aniruddha275",
+      "cpassword": "Aniruddha275"
+    }
+  ]
+}
